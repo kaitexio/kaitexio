@@ -1,4 +1,4 @@
-<h2 align="center">Hi! 👋 I'm kaitexio 👨‍💻
+<h2 align="center">Hi! 👋 I'm kaitexio 👨‍💻</h2>
   <p align="center">A web developer from japan. </p>
 
 <p align="center">
