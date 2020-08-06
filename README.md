@@ -1,5 +1,5 @@
-<h2 align="center">Hi! 👋 I'm kaitexio 👨‍💻</h2>
-  <p align="center">A student of Rikkyo Univ and software engineer intern . </p>
+<h2 align="center">Hi! 👋 I'm kaitexio </h2>
+  <p align="center">A student of Rikkyo Univ and software engineer intern 👨‍💻  </p>
 
 <p align="center">
   <a href="https://twitter.com/KAI21441756">
